@@ -43,7 +43,9 @@ define('DB_NAME', ''your_user);
 define('DB_USER', 'your_user');
 define('DB_PASSWORD', 'your_password');
 ```
-3. Make sure your PHP server is running (XAMPP, WAMP, MAMP, or native PHP server).
+3. Create a new MySQL database (e.g., `cointrack`)
+4. Import the provided `db/schema.sql`
+5. Make sure your PHP server is running (XAMPP, WAMP, MAMP, or native PHP server).
 
-4. Open index.php in your browser.
+6. Open index.php in your browser.
 
