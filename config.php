@@ -1,7 +1,7 @@
 <?php
-define('DB_NAME', 'insertName');
-define('DB_USER', 'insertUser');
-define('DB_PASSWORD', 'insertPassword');
+define('DB_NAME', ''your_user);
+define('DB_USER', 'your_user');
+define('DB_PASSWORD', 'your_password');
 define('DB_HOST', '127.0.0.1');
 
 global $pdo;
