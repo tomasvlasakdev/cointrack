@@ -31,9 +31,9 @@ git clone https://github.com/tomasvlasakdev/cointrack.git
 ```
 2. Fill in your database credentials into config.php:
 ```
-DB_USER = 'your_user';
-DB_PASS = 'your_password';
-DB_NAME = 'your_db';
+define('DB_NAME', ''your_user);
+define('DB_USER', 'your_user');
+define('DB_PASSWORD', 'your_password');
 ```
 3. Make sure your PHP server is running (XAMPP, WAMP, MAMP, or native PHP server).
 
