@@ -30,11 +30,11 @@ CoinTrack allows users to manage, track, and analyze their crypto portfolio in r
 git clone https://github.com/tomasvlasakdev/cointrack.git
 ```
 2. Fill in your database credentials into config.php:
-
+```
 DB_USER = 'your_user';
 DB_PASS = 'your_password';
 DB_NAME = 'your_db';
-
+```
 3. Make sure your PHP server is running (XAMPP, WAMP, MAMP, or native PHP server).
 
 4. Open index.php in your browser.
