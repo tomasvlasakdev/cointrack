@@ -1,0 +1,267 @@
+{
+    "export_date": "2025-10-11 09:38:51",
+    "user": {
+        "username": "asdasdasd",
+        "email": "tom@tom.cz",
+        "member_since": "2025-10-07 11:59:54"
+    },
+    "portfolio_summary": [
+        {
+            "symbol": "ADA",
+            "total_quantity": "1009.29600000",
+            "avg_buy_price": "8.000000"
+        },
+        {
+            "symbol": "ASD",
+            "total_quantity": "44.00000000",
+            "avg_buy_price": "44.000000"
+        },
+        {
+            "symbol": "BTC",
+            "total_quantity": "8.41185000",
+            "avg_buy_price": "132140.000000"
+        },
+        {
+            "symbol": "DOGE",
+            "total_quantity": "50.00000000",
+            "avg_buy_price": "0.020000"
+        },
+        {
+            "symbol": "ETH",
+            "total_quantity": "1.00000000",
+            "avg_buy_price": "3600.000000"
+        },
+        {
+            "symbol": "SOL",
+            "total_quantity": "88.78440000",
+            "avg_buy_price": "140.000000"
+        },
+        {
+            "symbol": "WETH",
+            "total_quantity": "112.14400000",
+            "avg_buy_price": "8.000000"
+        }
+    ],
+    "transactions": [
+        {
+            "id": 27,
+            "symbol": "ADA",
+            "transaction_type": "SELL",
+            "quantity": "112.14400000",
+            "price_per_unit": "8.00",
+            "total_value": "897.1520000000",
+            "transaction_date": "2025-10-10 12:40:00"
+        },
+        {
+            "id": 16,
+            "symbol": "ADA",
+            "transaction_type": "BUY",
+            "quantity": "112.14400000",
+            "price_per_unit": "8.00",
+            "total_value": "897.1520000000",
+            "transaction_date": "2025-10-10 12:40:00"
+        },
+        {
+            "id": 17,
+            "symbol": "ADA",
+            "transaction_type": "BUY",
+            "quantity": "112.14400000",
+            "price_per_unit": "8.00",
+            "total_value": "897.1520000000",
+            "transaction_date": "2025-10-10 12:40:00"
+        },
+        {
+            "id": 18,
+            "symbol": "ADA",
+            "transaction_type": "BUY",
+            "quantity": "112.14400000",
+            "price_per_unit": "8.00",
+            "total_value": "897.1520000000",
+            "transaction_date": "2025-10-10 12:40:00"
+        },
+        {
+            "id": 19,
+            "symbol": "WETH",
+            "transaction_type": "BUY",
+            "quantity": "112.14400000",
+            "price_per_unit": "8.00",
+            "total_value": "897.1520000000",
+            "transaction_date": "2025-10-10 12:40:00"
+        },
+        {
+            "id": 21,
+            "symbol": "ADA",
+            "transaction_type": "BUY",
+            "quantity": "112.14400000",
+            "price_per_unit": "8.00",
+            "total_value": "897.1520000000",
+            "transaction_date": "2025-10-10 12:40:00"
+        },
+        {
+            "id": 22,
+            "symbol": "ADA",
+            "transaction_type": "BUY",
+            "quantity": "112.14400000",
+            "price_per_unit": "8.00",
+            "total_value": "897.1520000000",
+            "transaction_date": "2025-10-10 12:40:00"
+        },
+        {
+            "id": 23,
+            "symbol": "ADA",
+            "transaction_type": "BUY",
+            "quantity": "112.14400000",
+            "price_per_unit": "8.00",
+            "total_value": "897.1520000000",
+            "transaction_date": "2025-10-10 12:40:00"
+        },
+        {
+            "id": 24,
+            "symbol": "ADA",
+            "transaction_type": "BUY",
+            "quantity": "112.14400000",
+            "price_per_unit": "8.00",
+            "total_value": "897.1520000000",
+            "transaction_date": "2025-10-10 12:40:00"
+        },
+        {
+            "id": 25,
+            "symbol": "ADA",
+            "transaction_type": "BUY",
+            "quantity": "112.14400000",
+            "price_per_unit": "8.00",
+            "total_value": "897.1520000000",
+            "transaction_date": "2025-10-10 12:40:00"
+        },
+        {
+            "id": 26,
+            "symbol": "ADA",
+            "transaction_type": "BUY",
+            "quantity": "112.14400000",
+            "price_per_unit": "8.00",
+            "total_value": "897.1520000000",
+            "transaction_date": "2025-10-10 12:40:00"
+        },
+        {
+            "id": 15,
+            "symbol": "ADA",
+            "transaction_type": "BUY",
+            "quantity": "112.14400000",
+            "price_per_unit": "8.00",
+            "total_value": "897.1520000000",
+            "transaction_date": "2025-10-10 12:40:00"
+        },
+        {
+            "id": 13,
+            "symbol": "ASD",
+            "transaction_type": "BUY",
+            "quantity": "44.00000000",
+            "price_per_unit": "44.00",
+            "total_value": "1936.0000000000",
+            "transaction_date": "2025-10-10 12:19:59"
+        },
+        {
+            "id": 12,
+            "symbol": "DOGE",
+            "transaction_type": "BUY",
+            "quantity": "50.00000000",
+            "price_per_unit": "0.02",
+            "total_value": "1.0000000000",
+            "transaction_date": "2025-10-10 10:02:20"
+        },
+        {
+            "id": 10,
+            "symbol": "BTC",
+            "transaction_type": "BUY",
+            "quantity": "1.96785000",
+            "price_per_unit": "120700.00",
+            "total_value": "237519.4950000000",
+            "transaction_date": "2025-10-10 09:15:40"
+        },
+        {
+            "id": 9,
+            "symbol": "BTC",
+            "transaction_type": "BUY",
+            "quantity": "1.44400000",
+            "price_per_unit": "120000.00",
+            "total_value": "173280.0000000000",
+            "transaction_date": "2025-10-10 09:15:20"
+        },
+        {
+            "id": 8,
+            "symbol": "SOL",
+            "transaction_type": "BUY",
+            "quantity": "88.78440000",
+            "price_per_unit": "140.00",
+            "total_value": "12429.8160000000",
+            "transaction_date": "2025-10-10 08:26:04"
+        },
+        {
+            "id": 7,
+            "symbol": "BTC",
+            "transaction_type": "BUY",
+            "quantity": "4.00000000",
+            "price_per_unit": "200000.00",
+            "total_value": "800000.0000000000",
+            "transaction_date": "2025-10-09 13:00:12"
+        },
+        {
+            "id": 2,
+            "symbol": "BTC",
+            "transaction_type": "BUY",
+            "quantity": "1.00000000",
+            "price_per_unit": "100000.00",
+            "total_value": "100000.0000000000",
+            "transaction_date": "2025-10-07 15:54:08"
+        },
+        {
+            "id": 3,
+            "symbol": "BTC",
+            "transaction_type": "SELL",
+            "quantity": "1.00000000",
+            "price_per_unit": "120000.00",
+            "total_value": "120000.0000000000",
+            "transaction_date": "2025-10-07 15:54:08"
+        },
+        {
+            "id": 4,
+            "symbol": "ETH",
+            "transaction_type": "BUY",
+            "quantity": "1.00000000",
+            "price_per_unit": "4000.00",
+            "total_value": "4000.0000000000",
+            "transaction_date": "2025-10-07 15:54:08"
+        },
+        {
+            "id": 5,
+            "symbol": "ETH",
+            "transaction_type": "BUY",
+            "quantity": "1.00000000",
+            "price_per_unit": "3200.00",
+            "total_value": "3200.0000000000",
+            "transaction_date": "2025-10-07 15:54:08"
+        },
+        {
+            "id": 6,
+            "symbol": "ETH",
+            "transaction_type": "SELL",
+            "quantity": "1.00000000",
+            "price_per_unit": "4000.00",
+            "total_value": "4000.0000000000",
+            "transaction_date": "2025-10-07 15:54:08"
+        },
+        {
+            "id": 1,
+            "symbol": "BTC",
+            "transaction_type": "BUY",
+            "quantity": "1.00000000",
+            "price_per_unit": "120000.00",
+            "total_value": "120000.0000000000",
+            "transaction_date": "2025-10-07 15:54:08"
+        }
+    ],
+    "statistics": {
+        "total_transactions": 24,
+        "assets_owned": 7
+    }
+}
