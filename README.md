@@ -28,7 +28,7 @@ CoinTrack allows users to manage, track, and analyze their crypto portfolio in r
 1. Clone the repository:  
 ```bash
 git clone https://github.com/tomasvlasakdev/cointrack.git
-
+```
 2. Fill in your database credentials into config.php:
 
 DB_USER = 'your_user';
