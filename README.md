@@ -22,6 +22,8 @@ CoinTrack allows users to manage, track, and analyze their crypto portfolio in r
 - **CSS** – styling  
 - **HTML** – layout  
 
+---
+
 ### 🧱 Database Setup
 1. Create a new MySQL database (e.g., `cointrack`)
 2. Import the provided `db/schema.sql`
