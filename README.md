@@ -6,9 +6,11 @@ CoinTrack allows users to manage, track, and analyze their crypto portfolio in r
 ---
 
 ## 🚀 Features
-- Track multiple cryptocurrencies and user portfolio holdings  
+- Track multiple cryptocurrencies and user portfolio holdings
+- Calculation of portfolio returns and total value
 - Add, edit, and delete transactions  
-- Dashboard with portfolio summary  
+- Dashboard with portfolio summary
+- Chart showing portfolio value over time
 - Export portfolio data  
 - User authentication (register/login/logout)  
 - Secure storage of settings and preferences  
