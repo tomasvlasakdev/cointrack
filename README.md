@@ -1,11 +1,11 @@
-# 🪙 CoinTrack
+# CoinTrack
 
 **PHP-based cryptocurrency portfolio tracker.**  
 CoinTrack allows users to manage, track, and analyze their crypto portfolio in real time with a secure, modular system.
 
 ---
 
-## 🚀 Features
+## Features
 - Track multiple cryptocurrencies and user portfolio holdings
 - Calculation of portfolio returns and total value
 - Add, edit, and delete transactions  
@@ -17,7 +17,7 @@ CoinTrack allows users to manage, track, and analyze their crypto portfolio in r
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 - **PHP 8+** – backend logic  
 - **MySQL** – database (configurable in `config.php`)  
 - **JavaScript** – frontend interactions + Chart.js
@@ -26,7 +26,7 @@ CoinTrack allows users to manage, track, and analyze their crypto portfolio in r
 
 ---
 
-## ⚙️ Installation
+## Installation
 1. Clone the repository:  
 ```bash
 git clone https://github.com/tomasvlasakdev/cointrack.git
